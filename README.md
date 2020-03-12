@@ -1,2 +1,2 @@
 # gist-crud-api
-CRUD operations on GIST APIs
+Test CRUD operations on GIST APIs
